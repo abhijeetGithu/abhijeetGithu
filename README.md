@@ -12,6 +12,7 @@
 🔹 Containerization: Docker, Kubernetes
 🌱 On a journey of DevOps mastery and continuous improvement. Join me as I embrace challenges and make a positive impact on software delivery! 🌟 #DevOps #Automation #ContinuousIntegration #ContinuousDeployment #InfrastructureAsCode
 
+🤝 Open to collaboration and knowledge sharing. Let's connect and learn together!
 - 📫 How to reach me Whatsapp No.:7985067439
 - 📬 Reach me at 122ad0010@iiitk.ac.in
 
