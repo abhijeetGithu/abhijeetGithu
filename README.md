@@ -8,11 +8,10 @@
 
 - **📈 Skills in Progress**  
    Skilled in machine learning algorithms, computer vision, NLP, and image processing; and advanced frameworks like CNNs, Airflow, Snowflake, and PySpark I'm currently rolling up my sleeves and testing my limits.
-- **🖥️ Backend Development**
+  
+- **🖥️ Backend Development**  
    With a background in backend development using JavaScript, I work to build scalable, efficient applications that seamlessly integrate AI and data-driven features.
   
-- **📈 Skills in Progress**  
-   Skilled in machine learning algorithms, computer vision, NLP, and image processing; and advanced frameworks like CNNs, Airflow, Snowflake, and PySpark I'm currently rolling up my sleeves and testing my limits.
 - **🚀 Passionate DevOps Enthusiast**  
    On a continuous journey to master DevOps practices! I leverage tools and frameworks that support seamless software delivery and infrastructure automation.
 
