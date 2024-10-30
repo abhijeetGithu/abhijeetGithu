@@ -10,7 +10,7 @@
    Skilled in machine learning algorithms, computer vision, NLP, and image processing; and advanced frameworks like CNNs, Airflow, Snowflake, and PySpark I'm currently rolling up my sleeves and testing my limits.
   
 - **🖥️ Backend Development**  
-   With a background in backend development using JavaScript, I work to build scalable, efficient applications that seamlessly integrate AI and data-driven features.
+  Using JavaScript and Express.js for backend at the same time, I gained experience to build scalable applications that are connected to databases such as MongoDB and MySQL. My main goal is a way in which the tour guides can be efficient, and use the data-driven method that is easy to update. which can offer a seamless, dynamic user experience to the end-users interactions.
   
 - **⚙️  DevOps**  
    Join me on my never-ending study of DevOps. I discern tools and frameworks that enable seamless software delivery and infrastructure automation.
