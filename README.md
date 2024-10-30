@@ -2,7 +2,7 @@
 -  I’m interested in Artificial Intelligence , Machine learning , deep leaning , data engineering
 -  I’m currently Mastering ML algorithm, Computer Vision, image processing, NLP, deep learning framework like: CNN, Keras, Tensorflow, pyTorch, airflow, snowflake, pyspark
 -  I’m looking to collaborate on ML Project
--  A passionate DevOps enthusiast on a journey of continuous learning and innovation! 🚀
+-  A passionate DevOps enthusiast on a journey of continuous learning and innovation! 
 -  Tools in my Toolbox:
 🔹 Configuration Management: Ansible, Chef
 🔹 Cloud Platforms: AWS, Azure, Google Cloud
