@@ -1,22 +1,31 @@
-- 👋 Hi, I’m @abhijeetGithu
--  I’m interested in Artificial Intelligence , Machine learning , deep leaning , data engineering
--  I’m currently Mastering ML algorithm, Computer Vision, image processing, NLP, deep learning framework like: CNN, Keras, Tensorflow, pyTorch, airflow, snowflake, pyspark
--  I’m looking to collaborate on ML Project
--  A passionate DevOps enthusiast on a journey of continuous learning and innovation! 
--  Tools in my Toolbox:
-🔹 Configuration Management: Ansible, Chef
-🔹 Cloud Platforms: AWS, Azure, Google Cloud
-🔹 Infrastructure as Code: Terraform
-🔹 Version Control: Git
-🔹 Scripting: Bash, Python
-🔹 Containerization: Docker, Kubernetes
-🌱 On a journey of DevOps mastery and continuous improvement. Join me as I embrace challenges and make a positive impact on software delivery! 🌟 #DevOps #Automation #ContinuousIntegration #ContinuousDeployment #InfrastructureAsCode
+### 👋 Hi, I’m Abhijeet Singh (@abhijeetGithu)
 
-- 🤝 Open to collaboration and knowledge sharing. Let's connect and learn together!
-- 📫 How to reach me Whatsapp No.:7985067439
-- 📬 Reach me at 122ad0010@iiitk.ac.in
+- **🎓 AI and Data Science Enthusiast**  
+   Currently pursuing a B.Tech in Artificial Intelligence and Data Science at IIITDM Kurnool. My journey in tech is driven by curiosity and a strong passion for data, machine learning, and engineering solutions.
 
-<!---
-abhijeetGithu/abhijeetGithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **🔬 Interests**  
+   Deep into the world of **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Data Engineering**. My focus includes computer vision, NLP, and mastering ML frameworks like TensorFlow, PyTorch, and Keras.
+
+- **📈 Skills in Progress**  
+   Actively honing skills in **ML algorithms**, **Computer Vision**, **NLP**, **Image Processing**, and advanced frameworks (e.g., CNNs, Airflow, Snowflake, PySpark) to push boundaries in data science.
+
+- **🚀 Passionate DevOps Enthusiast**  
+   On a continuous journey to master DevOps practices! I leverage tools and frameworks that support seamless software delivery and infrastructure automation.
+
+   - **Tools in My Toolbox**  
+     - **Configuration Management**: Ansible, Chef  
+     - **Cloud Platforms**: AWS, Azure, Google Cloud  
+     - **Infrastructure as Code**: Terraform  
+     - **Containerization**: Docker, Kubernetes  
+     - **Version Control**: Git  
+     - **Scripting**: Bash, Python
+
+   - **Other Skills**: MLOps, CI/CD, data analytics, big data, and version control.
+
+- **🤝 Let’s Connect**  
+   I’m open to collaborations on ML projects, DevOps initiatives, and impactful AI solutions! Feel free to reach out and let’s learn together.
+
+- 📫 How to reach me:  
+   - Email: singhmanchu09@gmail.com  
+   - LinkedIn: [Abhijeet Singh](https://www.linkedin.com/in/abhijeet-singh-40a513258/)  
+   - GitHub: [abhijeetGithu](https://github.com/abhijeetGithu)  
