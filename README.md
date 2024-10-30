@@ -1,13 +1,15 @@
 ### 👋 Hi, I’m Abhijeet Singh (@abhijeetGithu)
 
 - **🎓 AI and Data Science Enthusiast**  
-   Currently pursuing a B.Tech in Artificial Intelligence and Data Science at IIITDM Kurnool. My journey in tech is driven by curiosity and a strong passion for data, machine learning, and engineering solutions.
+   Now studying B.Tech Artificial Intelligence and Data Science at IIITDM Kurnool Razor-sharp understanding of tech roped in me to subdue my curiosity and to lead me through the fields of data, machine learning, and engineering solutions.
 
 - **🔬 Interests**  
-   Deep into the world of **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Data Engineering**. My focus includes computer vision, NLP, and mastering ML frameworks like TensorFlow, PyTorch, and Keras.
+   Extensively in the boy of the world of Artificial Intelligence, Machine Learning, Deep Learning, and Data Engineering. I aim at computer vision, NLP, and getting very skillful ML frameworks like TensorFlow, PyTorch, and Keras.
 
 - **📈 Skills in Progress**  
-   Actively honing skills in **ML algorithms**, **Computer Vision**, **NLP**, **Image Processing**, and advanced frameworks (e.g., CNNs, Airflow, Snowflake, PySpark) to push boundaries in data science.
+   Skilled in machine learning algorithms, computer vision, NLP, and image processing; and advanced frameworks like CNNs, Airflow, Snowflake, and PySpark I'm currently rolling up my sleeves and testing my limits.
+- **🖥️ Backend Development**
+   With a background in backend development using JavaScript, I work to build scalable, efficient applications that seamlessly integrate AI and data-driven features.
 
 - **🚀 Passionate DevOps Enthusiast**  
    On a continuous journey to master DevOps practices! I leverage tools and frameworks that support seamless software delivery and infrastructure automation.
