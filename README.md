@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Abhijeet Singh (@abhijeetGithu)
 
-- **🎓 AI and Data Science Enthusiast**  
+- **🎓 AI and Data Science**  
    Now studying B.Tech Artificial Intelligence and Data Science at IIITDM Kurnool Razor-sharp understanding of tech roped in me to subdue my curiosity and to lead me through the fields of data, machine learning, and engineering solutions.
 
 - **🔬 Interests**  
@@ -12,8 +12,8 @@
 - **🖥️ Backend Development**  
    With a background in backend development using JavaScript, I work to build scalable, efficient applications that seamlessly integrate AI and data-driven features.
   
-- **🚀 Passionate DevOps Enthusiast**  
-   On a continuous journey to master DevOps practices! I leverage tools and frameworks that support seamless software delivery and infrastructure automation.
+- **⚙️  DevOps**  
+   Join me on my never-ending study of DevOps. I discern tools and frameworks that enable seamless software delivery and infrastructure automation.
 
    - **Tools in My Toolbox**  
      - **Configuration Management**: Ansible, Chef  
