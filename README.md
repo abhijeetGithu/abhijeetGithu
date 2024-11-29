@@ -29,6 +29,6 @@
    I’m open to collaborations on ML projects, DevOps initiatives, and impactful AI solutions! Feel free to reach out and let’s learn together.
 
 - 📫 How to reach me:  
-   - Email: singhmanchu09@gmail.com  
+   - Email: abstar072002@gmail.com
    - LinkedIn: [Abhijeet Singh](https://www.linkedin.com/in/abhijeet-singh-40a513258/)  
    - GitHub: [abhijeetGithu](https://github.com/abhijeetGithu)  
