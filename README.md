@@ -32,7 +32,6 @@
    - Email: abstar072002@gmail.com
    - LinkedIn: [Abhijeet Singh](https://www.linkedin.com/in/abhijeet-singh-40a513258/)  
    - GitHub: [abhijeetGithu](https://github.com/abhijeetGithu)
- 
 - <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
