@@ -3,38 +3,67 @@
 
 ### 👋 Hi, I’m Abhijeet Singh (@abhijeetGithu)
 
-- **🎓 AI and Data Science**  
-   Now studying B.Tech Artificial Intelligence and Data Science at IIITDM Kurnool Razor-sharp understanding of tech roped in me to subdue my curiosity and to lead me through the fields of data, machine learning, and engineering solutions.
+- 🎓 **B.Tech in Artificial Intelligence and Data Science @ IIITDM Kurnool**  
+  A tech enthusiast exploring how data, code, and systems come together to solve real-world problems. My journey spans AI/ML, full-stack development, and DevOps.
 
-- **🔬 Interests**  
-   Extensively in the boy of the world of Artificial Intelligence, Machine Learning, Deep Learning, and Data Engineering. I aim at computer vision, NLP, and getting very skillful ML frameworks like TensorFlow, PyTorch, and Keras.
+---
 
-- **📈 Skills in Progress**  
-   Skilled in machine learning algorithms, computer vision, NLP, and image processing; and advanced frameworks like CNNs, Airflow, Snowflake, and PySpark I'm currently rolling up my sleeves and testing my limits.
-  
-- **🖥️ Backend Development**  
-  Using JavaScript and Express.js for backend at the same time, I gained experience to build scalable applications that are connected to databases such as MongoDB and MySQL. My main goal is a way in which the tour guides can be efficient, and use the data-driven method that is easy to update. which can offer a seamless, dynamic user experience to the end-users interactions.
-  
-- **⚙️  DevOps**  
-   Join me on my never-ending study of DevOps. I discern tools and frameworks that enable seamless software delivery and infrastructure automation.
+### 🔬 What I’m Passionate About  
+I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. I love working with frameworks like **TensorFlow**, **PyTorch**, and **Keras** to build models that solve real-world challenges.
 
-   - **Tools in My Toolbox**  
-     - **Configuration Management**: Ansible, Chef  
-     - **Cloud Platforms**: AWS, Azure, Google Cloud  
-     - **Infrastructure as Code**: Terraform  
-     - **Containerization**: Docker, Kubernetes  
-     - **Version Control**: Git  
-     - **Scripting**: Bash, Python
+---
 
-   - **Other Skills**: MLOps, CI/CD, data analytics, big data, and version control.
+### 💻 Full Stack Web Development  
+I specialize in building full-stack applications with modern JavaScript technologies. My core stack includes:
 
-- **🤝 Let’s Connect**  
-   I’m open to collaborations on ML projects, DevOps initiatives, and impactful AI solutions! Feel free to reach out and let’s learn together.
+- **Frontend**: React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
+- **Backend**: Node.js, Express.js, RESTful APIs  
+- **Databases**: MongoDB, MySQL, Firebase  
+- **State Management**: Redux, React Context API  
+- **Tools**: Postman, Vercel, Netlify, Render, Git, GitHub  
+- **Other**: Responsive design, authentication systems, real-time apps with Socket.IO
 
-- 📫 How to reach me:  
-   - Email: abstar072002@gmail.com
-   - LinkedIn: [Abhijeet Singh](https://www.linkedin.com/in/abhijeet-singh-40a513258/)  
-   - GitHub: [abhijeetGithu](https://github.com/abhijeetGithu)
+I enjoy building intuitive UIs and scalable backends that offer seamless, real-time user experiences.
+
+---
+
+### ☁️ Cloud & DevOps Journey  
+I'm actively learning and applying **DevOps practices** for better software delivery and infrastructure management. Tools and platforms I’ve worked with:
+
+- **Cloud Platforms**: AWS, Google Cloud (6x Skill Badges), Microsoft Azure  
+- **Containerization**: Docker, Kubernetes  
+- **CI/CD & Infrastructure**: GitHub Actions, Jenkins, Terraform, Ansible  
+- **Scripting & Monitoring**: Bash, Python, Prometheus, Grafana
+
+---
+
+### 📚 Always Learning  
+Currently diving deeper into:
+- **MLOps**: MLflow, model deployment, pipeline automation  
+- **Big Data Tools**: PySpark, Snowflake, Apache Airflow  
+- **System Design**, **Database Scaling**, and **API Performance Optimization**
+
+---
+
+### ✍️ Sharing & Collaborating  
+I share my experiences and learnings through technical articles on **[Medium](https://medium.com/@abstar072002)**, mostly covering AI, ML, backend systems, and project building tips.  
+As a **GDSC IIITK Member (2023–24)**, I also love collaborating on tech initiatives and mentoring juniors.
+
+---
+
+### 🤝 Let’s Connect!
+I’m open to collaborating on:
+- AI/ML projects  
+- Full-stack web apps  
+- DevOps & cloud-based systems  
+- Community-led initiatives & hackathons
+
+📫 Reach Me:
+- **Email**: abstar072002@gmail.com  
+- **LinkedIn**: [Abhijeet Singh](https://www.linkedin.com/in/abhijeet-singh-40a513258/)  
+- **GitHub**: [abhijeetGithu](https://github.com/abhijeetGithu)
+
+
 - <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
