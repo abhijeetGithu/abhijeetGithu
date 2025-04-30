@@ -8,7 +8,7 @@
 
 ---
 
-### 🔬 What I’m Passionate About  
+### 🔬 What I’m Good About  
 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. I love working with frameworks like **TensorFlow**, **PyTorch**, and **Keras** to build models that solve real-world challenges.
 
 ---
