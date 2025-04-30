@@ -63,7 +63,7 @@ I’m open to collaborating on:
 - **LinkedIn**: [Abhijeet Singh](https://www.linkedin.com/in/abhijeet-singh-40a513258/)  
 - **GitHub**: [abhijeetGithu](https://github.com/abhijeetGithu)
 - **Portfolio Website**: [Live Portfolio](https://singhfolio.netlify.app/).
-- <!--h1 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
