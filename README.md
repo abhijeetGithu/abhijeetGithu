@@ -1,19 +1,19 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 👋 Hi, I’m Abhijeet Singh (@abhijeetGithu)
+###  Hi, I’m Abhijeet Singh (@abhijeetGithu)
 
-- 🎓 **B.Tech in Artificial Intelligence and Data Science @ IIITDM Kurnool**  
+-  **B.Tech in Artificial Intelligence and Data Science @ IIITDM Kurnool**  
   A tech enthusiast exploring how data, code, and systems come together to solve real-world problems. My journey spans AI/ML, full-stack development, and DevOps.
 
 ---
 
-### 🔬 What I’m Good About  
+###  What I’m Good About  
 I'm passionate about **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Natural Language Processing**. I love working with frameworks like **TensorFlow**, **PyTorch**, and **Keras** to build models that solve real-world challenges.
 
 ---
 
-### 💻 Full Stack Web Development  
+###  Full Stack Web Development  
 I specialize in building full-stack applications with modern JavaScript technologies. My core stack includes:
 
 - **Frontend**: React.js, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
@@ -27,7 +27,7 @@ I enjoy building intuitive UIs and scalable backends that offer seamless, real-t
 
 ---
 
-### ☁️ Cloud & DevOps Journey  
+###  Cloud & DevOps Journey  
 I'm actively learning and applying **DevOps practices** for better software delivery and infrastructure management. Tools and platforms I’ve worked with:
 
 - **Cloud Platforms**: AWS, Google Cloud (6x Skill Badges), Microsoft Azure  
@@ -37,7 +37,7 @@ I'm actively learning and applying **DevOps practices** for better software deli
 
 ---
 
-### 📚 Always Learning  
+###  Always Learning  
 Currently diving deeper into:
 - **MLOps**: MLflow, model deployment, pipeline automation  
 - **Big Data Tools**: PySpark, Snowflake, Apache Airflow  
@@ -45,13 +45,13 @@ Currently diving deeper into:
 
 ---
 
-### ✍️ Sharing & Collaborating  
+###  Sharing & Collaborating  
 I share my experiences and learnings through technical articles on **[Medium](https://medium.com/@abstar072002)**, mostly covering AI, ML, backend systems, and project building tips.  
 As a **GDSC IIITK Member (2023–24)**, I also love collaborating on tech initiatives and mentoring juniors.
 
 ---
 
-### 🤝 Let’s Connect!
+###  Let’s Connect!
 I’m open to collaborating on:
 - AI/ML projects  
 - Full-stack web apps  
